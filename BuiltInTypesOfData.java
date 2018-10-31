@@ -19,8 +19,4 @@ double b = 3.14159;
  System.out.println(8/b);
  System.out.println((int) (8/b));
 }
-
-
-
-
 }
